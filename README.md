@@ -82,6 +82,3 @@ Aslzoda Bozorboyeva — Android Developer.
 
 <i>Built with ❤️ and Kotlin</i>
 </p>
-
-
-aslzoda
